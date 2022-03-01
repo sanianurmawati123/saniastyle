@@ -1,9 +1,9 @@
 <template>
     <div>
-           <br> Singkup,
+           <br> kp golempang,
             Purbaratu
             Tasikmalaya 
             <br>
-        <img src="../assets/petaa.png" width="100%">
+        <img src="../assets/peta.png" width="100%">
     </div>
 </template>
