@@ -8,11 +8,10 @@
 
 <script>
 import navigasi from "./components/navigasi.vue";
-import NewArrival from "./components/NewArrival.vue";
+
 export default {
   components: {
     navigasi,
-    NewArrival,
   },
 };
 </script>
