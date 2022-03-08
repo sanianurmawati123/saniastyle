@@ -1,4 +1,4 @@
-# saniastyle
+# tiastyle
 
 ## Project setup
 ```

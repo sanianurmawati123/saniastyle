@@ -1,6 +1,6 @@
 <template>
     <div>
-           <br> kp golempang,
+           <br> Singkup,
             Purbaratu
             Tasikmalaya 
             <br>

@@ -3,7 +3,7 @@
     <h1>new arrival</h1>
 
     <div class="text-muted" v-if="loading">
-      <HashLoader />
+      <ClimbingBoxLoader />
     </div>
     <div class="row">
       <div class="col-md-3" v-for="produk in products" :key="produk.id">
@@ -25,11 +25,11 @@
 </template>
 
 <script>
-import { HashLoader } from '@saeris/vue-spinners'
+import { ClimbingBoxLoader } from '@saeris/vue-spinners'
 
 export default {
    components : {
-HashLoaderr
+ClimbingBoxLoader
  },
 
   data() {
